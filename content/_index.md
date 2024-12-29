@@ -26,8 +26,28 @@ General support for STM-F411 processors finished in 7.1.2.
 All other chips listed will support current and future releases of INAV. (flash memory dependent)
 - Go to the [INAV Welcome Page](https://github.com/iNavFlight/inav?tab=readme-ov-file#readme) for a longer list of features.
 
+## Primary Goals
+
+* Community driven.
+* Friendly project atmosphere.
+* Focus on the needs of users.
+* Great flight performance.
+* Understandable and maintainable code.
+
 ## Using the Documentation
 
 - The left sidebar lists user documentation and DevDocs grouped under relevelant sections.
 
 ## Getting Started
+
+
+
+## Feedback & Contributing
+
+We welcome all feedback.  If you love it we want to hear from you, if you have problems please tell us how we could improve things so we can make it better for everyone.
+
+If you want to contribute please see the notes here:
+
+https://github.com/iNavFlight/inav#contributing
+
+Developers should read this:
