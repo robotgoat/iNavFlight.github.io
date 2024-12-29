@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'iNav Flight'
+theme = 'hugo-theme-relearn'
+
+[outputs]
+    home = ['html', 'rss', 'print']
+    page = ['html', 'rss', 'print']
+    section = ['html', 'rss', 'print']
+
+[params]
+    themeVariant = ['auto', 'relearn-dark', 'inav-dark']
+    showVisitedLinks = true
